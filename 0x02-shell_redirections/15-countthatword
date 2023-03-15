@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | grep "bin" | wc -l
+sort /etc/passwd | grep "bin" | wc -l
