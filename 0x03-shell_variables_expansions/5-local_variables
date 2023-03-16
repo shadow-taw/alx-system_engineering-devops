@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((env)(set)(declare -f))"
+env | set | declare -f
