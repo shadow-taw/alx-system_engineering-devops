@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "env ; set ; declare -f"
+set # check "declare" if set didn't work
